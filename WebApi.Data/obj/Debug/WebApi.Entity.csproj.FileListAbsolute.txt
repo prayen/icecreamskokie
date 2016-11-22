@@ -1,0 +1,20 @@
+c:\users\hp\documents\visual studio 2013\Projects\WebApi\WebApi.Data\bin\Debug\WebApi.Data.dll.config
+c:\users\hp\documents\visual studio 2013\Projects\WebApi\WebApi.Data\bin\Debug\WebApi.Data.dll
+c:\users\hp\documents\visual studio 2013\Projects\WebApi\WebApi.Data\bin\Debug\WebApi.Data.pdb
+c:\users\hp\documents\visual studio 2013\Projects\WebApi\WebApi.Data\bin\Debug\EntityFramework.dll
+c:\users\hp\documents\visual studio 2013\Projects\WebApi\WebApi.Data\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\hp\documents\visual studio 2013\Projects\WebApi\WebApi.Data\bin\Debug\EntityFramework.xml
+c:\users\hp\documents\visual studio 2013\Projects\WebApi\WebApi.Data\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\hp\documents\visual studio 2013\Projects\WebApi\WebApi.Data\obj\Debug\WebApi.Entity.csprojResolveAssemblyReference.cache
+c:\users\hp\documents\visual studio 2013\Projects\WebApi\WebApi.Data\obj\Debug\WebApi.Data.dll
+c:\users\hp\documents\visual studio 2013\Projects\WebApi\WebApi.Data\obj\Debug\WebApi.Data.pdb
+D:\Prayen\git\webapitutorial\WebApi.Data\bin\Debug\WebApi.Data.dll.config
+D:\Prayen\git\webapitutorial\WebApi.Data\bin\Debug\WebApi.Data.dll
+D:\Prayen\git\webapitutorial\WebApi.Data\bin\Debug\WebApi.Data.pdb
+D:\Prayen\git\webapitutorial\WebApi.Data\bin\Debug\EntityFramework.dll
+D:\Prayen\git\webapitutorial\WebApi.Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\Prayen\git\webapitutorial\WebApi.Data\bin\Debug\EntityFramework.xml
+D:\Prayen\git\webapitutorial\WebApi.Data\bin\Debug\EntityFramework.SqlServer.xml
+D:\Prayen\git\webapitutorial\WebApi.Data\obj\Debug\WebApi.Entity.csprojResolveAssemblyReference.cache
+D:\Prayen\git\webapitutorial\WebApi.Data\obj\Debug\WebApi.Data.dll
+D:\Prayen\git\webapitutorial\WebApi.Data\obj\Debug\WebApi.Data.pdb

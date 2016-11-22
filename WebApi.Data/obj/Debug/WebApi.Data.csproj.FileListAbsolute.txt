@@ -1,0 +1,5 @@
+c:\users\hp\documents\visual studio 2013\Projects\WebApi\WebApi.Data\bin\Debug\WebApi.Data.dll
+c:\users\hp\documents\visual studio 2013\Projects\WebApi\WebApi.Data\bin\Debug\WebApi.Data.pdb
+c:\users\hp\documents\visual studio 2013\Projects\WebApi\WebApi.Data\obj\Debug\WebApi.Data.csprojResolveAssemblyReference.cache
+c:\users\hp\documents\visual studio 2013\Projects\WebApi\WebApi.Data\obj\Debug\WebApi.Data.dll
+c:\users\hp\documents\visual studio 2013\Projects\WebApi\WebApi.Data\obj\Debug\WebApi.Data.pdb
