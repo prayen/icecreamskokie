@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace WebApi.Entity
+namespace SkokieIceCream.Entity
 {
     [Table("Student")]
     public class Student

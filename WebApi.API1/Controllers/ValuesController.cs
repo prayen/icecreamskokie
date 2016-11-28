@@ -5,7 +5,7 @@ using System.Net;
 using System.Net.Http;
 using System.Web.Http;
 
-namespace WebApi.API1.Controllers
+namespace SkokieIceCream.Web.Controllers
 {
     public class ValuesController : ApiController
     {

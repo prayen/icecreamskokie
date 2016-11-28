@@ -1,18 +1,18 @@
-namespace WebApi.ApiData.Migrations
+namespace SkokieIceCream.ApiData.Migrations
 {
     using System;
     using System.Data.Entity;
     using System.Data.Entity.Migrations;
     using System.Linq;
 
-    internal sealed class Configuration : DbMigrationsConfiguration<WebApi.ApiData.ApplicationDbContext>
+    internal sealed class Configuration : DbMigrationsConfiguration<SkokieIceCream.ApiData.ApplicationDbContext>
     {
         public Configuration()
         {
             AutomaticMigrationsEnabled = false;
         }
 
-        protected override void Seed(WebApi.ApiData.ApplicationDbContext context)
+        protected override void Seed(SkokieIceCream.ApiData.ApplicationDbContext context)
         {
             //  This method will be called after migrating to the latest version.
 

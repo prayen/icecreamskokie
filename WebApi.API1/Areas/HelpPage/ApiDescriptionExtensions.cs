@@ -3,7 +3,7 @@ using System.Text;
 using System.Web;
 using System.Web.Http.Description;
 
-namespace WebApi.API1.Areas.HelpPage
+namespace SkokieIceCream.Web.Areas.HelpPage
 {
     public static class ApiDescriptionExtensions
     {

@@ -6,9 +6,9 @@ using System.Data.Entity.ModelConfiguration.Conventions;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using WebApi.Entity;
+using SkokieIceCream.Entity;
 
-namespace WebApi.ApiData
+namespace SkokieIceCream.ApiData
 {
     public class ApplicationDbContext : DbContext
     {

@@ -1,4 +1,4 @@
-namespace WebApi.ApiData.Migrations
+namespace SkokieIceCream.ApiData.Migrations
 {
     using System;
     using System.Data.Entity.Migrations;

@@ -2,16 +2,16 @@
 using System.Web;
 using System.Web.Mvc;
 using System.Web.Optimization;
-using WebApi.Infrastructure;
-using WebApi.Repository;
-using WebApi.Service;
-using WebApi.API1;
+using SkokieIceCream.Infrastructure;
+using SkokieIceCream.Repository;
+using SkokieIceCream.Service;
+using SkokieIceCream.Web;
 using Autofac.Integration.Mvc;
 using Autofac.Integration.WebApi;
 using Autofac;
 using System.Web.Http;
 
-namespace WebApi.API1
+namespace SkokieIceCream.Web
 {
     public static class Bootstrapper
     {

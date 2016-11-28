@@ -3,10 +3,10 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using WebApi.Entity;
-using WebApi.Infrastructure;
+using SkokieIceCream.Entity;
+using SkokieIceCream.Infrastructure;
 
-namespace WebApi.Repository
+namespace SkokieIceCream.Repository
 {
     public class StudentRepository : RepositoryBase<Student>, IStudentRepository
     {

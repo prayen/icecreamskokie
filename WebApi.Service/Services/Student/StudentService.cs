@@ -3,11 +3,11 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using WebApi.Entity;
-using WebApi.Infrastructure;
-using WebApi.Repository;
+using SkokieIceCream.Entity;
+using SkokieIceCream.Infrastructure;
+using SkokieIceCream.Repository;
 
-namespace WebApi.Service
+namespace SkokieIceCream.Service
 {
     public class StudentService : IStudentService
     {

@@ -1,9 +1,9 @@
 using System;
 using System.Web.Http;
 using System.Web.Mvc;
-using WebApi.API1.Areas.HelpPage.Models;
+using SkokieIceCream.Web.Areas.HelpPage.Models;
 
-namespace WebApi.API1.Areas.HelpPage.Controllers
+namespace SkokieIceCream.Web.Areas.HelpPage.Controllers
 {
     /// <summary>
     /// The controller that will handle requests for the help page.

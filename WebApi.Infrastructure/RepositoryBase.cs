@@ -5,9 +5,9 @@ using System.Linq;
 using System.Linq.Expressions;
 using System.Text;
 using System.Threading.Tasks;
-using WebApi.ApiData;
+using SkokieIceCream.ApiData;
 
-namespace WebApi.Infrastructure
+namespace SkokieIceCream.Infrastructure
 {
     public abstract class RepositoryBase<T>
          : IRepository<T>

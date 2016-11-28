@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace WebApi.Infrastructure
+namespace SkokieIceCream.Infrastructure
 {
     public class Disposable : IDisposable
     {

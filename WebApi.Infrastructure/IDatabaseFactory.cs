@@ -3,9 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using WebApi.ApiData;
+using SkokieIceCream.ApiData;
 
-namespace WebApi.Infrastructure
+namespace SkokieIceCream.Infrastructure
 {
     public interface IDatabaseFactory : IDisposable
     {

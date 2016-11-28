@@ -1,7 +1,7 @@
 ﻿using System.Web;
 using System.Web.Mvc;
 
-namespace WebApi.API1
+namespace SkokieIceCream.Web
 {
     public class FilterConfig
     {

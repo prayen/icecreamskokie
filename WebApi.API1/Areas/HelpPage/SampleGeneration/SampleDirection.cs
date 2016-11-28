@@ -1,4 +1,4 @@
-namespace WebApi.API1.Areas.HelpPage
+namespace SkokieIceCream.Web.Areas.HelpPage
 {
     /// <summary>
     /// Indicates whether the sample is used for request or response

@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Web.Http;
 
-namespace WebApi.API1
+namespace SkokieIceCream.Web
 {
     public static class WebApiConfig
     {

@@ -5,11 +5,11 @@ using System.Net;
 using System.Net.Http;
 using System.Web.Http;
 using System.Web.Http.Cors;
-using WebApi.API1.Areas.HelpPage.Models;
-using WebApi.Entity;
-using WebApi.Service;
+using SkokieIceCream.Web.Areas.HelpPage.Models;
+using SkokieIceCream.Entity;
+using SkokieIceCream.Service;
 
-namespace WebApi.API1.Areas.HelpPage.Controllers
+namespace SkokieIceCream.Web.Areas.HelpPage.Controllers
 {
     [EnableCors(origins: "http://localhost:55058", headers: "*", methods: "*")]
     public class StudentInformationController : ApiController
