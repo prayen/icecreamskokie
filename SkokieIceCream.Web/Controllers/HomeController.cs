@@ -10,7 +10,7 @@ namespace SkokieIceCream.Web.Controllers
     {
         public ActionResult Index()
         {
-            ViewBag.Title = "Home Page";
+            ViewBag.Title = "Chocolate Shoppe Ice Cream Skokie";
 
             return View();
         }

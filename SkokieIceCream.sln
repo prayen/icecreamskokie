@@ -1,19 +1,19 @@
-﻿
+
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.21005.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SkokieIceCream.Web", "WebApi.API1\SkokieIceCream.Web.csproj", "{E133AA2F-BE84-4EFA-86D5-C2DD93A48D03}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SkokieIceCream.Web", "SkokieIceCream.Web\SkokieIceCream.Web.csproj", "{E133AA2F-BE84-4EFA-86D5-C2DD93A48D03}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SkokieIceCream.Entity", "WebApi.Data\SkokieIceCream.Entity.csproj", "{CAA4BBFD-3F17-4036-9C9C-2518807DC112}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SkokieIceCream.Entity", "SkokieIceCream.Entity\SkokieIceCream.Entity.csproj", "{CAA4BBFD-3F17-4036-9C9C-2518807DC112}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SkokieIceCream.Data", "WebApi.ApiData\SkokieIceCream.Data.csproj", "{00B3A6AE-FEFC-47D0-BF67-C4E985C1A912}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SkokieIceCream.Data", "SkokieIceCream.Data\SkokieIceCream.Data.csproj", "{00B3A6AE-FEFC-47D0-BF67-C4E985C1A912}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SkokieIceCream.Repository", "WebApi.Repository\SkokieIceCream.Repository.csproj", "{864AEEFF-8145-467D-8061-CFF7B04E8809}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SkokieIceCream.Repository", "SkokieIceCream.Repository\SkokieIceCream.Repository.csproj", "{864AEEFF-8145-467D-8061-CFF7B04E8809}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SkokieIceCream.Infrastructure", "WebApi.Infrastructure\SkokieIceCream.Infrastructure.csproj", "{01B11448-BE02-4DB3-A02C-A865AACC1E7F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SkokieIceCream.Infrastructure", "SkokieIceCream.Infrastructure\SkokieIceCream.Infrastructure.csproj", "{01B11448-BE02-4DB3-A02C-A865AACC1E7F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SkokieIceCream.Service", "WebApi.Service\SkokieIceCream.Service.csproj", "{CAE85705-A156-4CD5-B59E-8AFDD2ED92E7}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SkokieIceCream.Service", "SkokieIceCream.Service\SkokieIceCream.Service.csproj", "{CAE85705-A156-4CD5-B59E-8AFDD2ED92E7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

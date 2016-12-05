@@ -318,3 +318,7 @@ body {
   outline: none;
   background-color: bisque !important;
 }
+
+.navbar-brand .logo{
+    background-image: url(img/Logo.png);
+}
